@@ -1,0 +1,14 @@
+layout_spectrum: 0.9364276
+typography_spectrum: 0.6110283
+color:
+  saturation: 0.9221581
+  lightness: 0.2636339
+  brandStrength: 0.2061981
+  rhythmicContrast: 0.9212326
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: JBF.COM
